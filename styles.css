@@ -6,14 +6,14 @@ body {
 }
 
 h1 {
-  color: #207979;
+  color: #021616;
   font-size: 5.625rem;
   margin: 50px auto 0 auto;
   font-family: 'Sacramento', cursive;
 }
 
 h2 {
-  color: #0b3434;
+  color: #093838;
   font-family: 'Montserrat', sans-serif;
   font-size: 2.5rem;
   font-weight: normal;
@@ -21,7 +21,7 @@ h2 {
 }
 
 h3 {
-  color: #527274;
+  color: #280c42;
   font-family: 'Montserrat', sans-serif;
 }
 
@@ -37,7 +37,7 @@ hr {
 }
 
 a{
-  color: #11999E;
+  color: #053f2c;
   font-family: 'Montserrat', sans-serif;
   margin: 10px 20px;
   text-decoration: none;
