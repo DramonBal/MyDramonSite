@@ -4,16 +4,22 @@ body {
   text-align: center;
   font-family: 'Merriweather', serif;
 }
+body {
+  background-image: url("images/rain.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
 
 h1 {
-  color: #021616;
+  color: #b90b31;
   font-size: 5.625rem;
   margin: 50px auto 0 auto;
-  font-family: 'Sacramento', cursive;
+  font-family: 'Roman', display;
 }
 
 h2 {
-  color: #093838;
+  color: #b90b31;
   font-family: 'Montserrat', sans-serif;
   font-size: 2.5rem;
   font-weight: normal;
@@ -54,8 +60,9 @@ a:hover {
 }
 
 .middle-container {
-   background-color: #f87c07;
-  margin: 75px 0;
+   background-color: #1fb469;
+  padding: 20px 0 20px;
+  margin: 75px;
 }
 
 .bottom-container {
