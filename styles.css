@@ -13,7 +13,7 @@ body {
 
 h1 {
   color: #b90b31;
-  font-size: 5.625rem;
+  font-size: 6.0rem;
   margin: 50px auto 0 auto;
   font-family: 'Roman', display;
 }
@@ -21,7 +21,7 @@ h1 {
 h2 {
   color: #b90b31;
   font-family: 'Montserrat', sans-serif;
-  font-size: 2.5rem;
+  font-size: 4.0rem;
   font-weight: normal;
   padding-bottom: 10px;
 }
