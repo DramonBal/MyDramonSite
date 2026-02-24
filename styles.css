@@ -45,12 +45,13 @@ h2 {
 }
 
 h3 {
-  color: red;
+  color: white;
   font-family: 'Montserrat', sans-serif;
 }
 
 p {
   line-height: 2;
+  color: red;
 }
 
 hr {
