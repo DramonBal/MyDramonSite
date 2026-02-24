@@ -50,9 +50,9 @@ h3 {
 }
 
 p {
+  color: #b90b31;
   line-height: 2;
-  color: red;
-}
+  }
 
 hr {
   border: dotted #EAF6F6 6px;
