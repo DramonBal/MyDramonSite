@@ -133,9 +133,9 @@ a:hover {
 }
 
 .code-img {
-  width: 25%;
-  float: left;
-  margin-right: 30px;
+  width: 30%;
+  float: auto;
+  margin-right: auto;
 }
 
 .chilli-img {
