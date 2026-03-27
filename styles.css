@@ -30,14 +30,16 @@ video-container {
 }
 
 h1 {
-  color: #b90b31;
+  /*color: #b90b31;*/
+  color: red;
   font-size: 6.0rem;
   margin: 50px auto 0 auto;
   font-family: 'Roman', display;
 }
 
 h2 {
-  color: #b90b31;
+  /*color: #b90b31;*/
+  color: red;
   font-family: 'Montserrat', sans-serif;
   font-size: 4.0rem;
   font-weight: normal;
@@ -57,7 +59,8 @@ h4 {
 }
 
 p {
-  color: #b90b31;
+  /*color: #b90b31;*/
+  color: red;
   line-height: 2;
   }
 
