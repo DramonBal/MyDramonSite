@@ -39,13 +39,13 @@ h1 {
 
 h1 {
     display: inline-block;
-    animation: swirl 2s ease-in-out infinite;
+    animation: swirl 4s ease-in-out infinite;
     /* Optional: Delay animation for each letter */
     animation-delay: calc(0.1s * var(--i));
   }
 h1 {
     display: inline-block;
-    animation: swirl 2s ease-in-out infinite;
+    animation: swirl 4s ease-in-out infinite;
     /* Optional: Delay animation for each letter */
     animation-delay: calc(0.1s * var(--i));
   }
