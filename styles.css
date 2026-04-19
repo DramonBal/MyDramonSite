@@ -37,13 +37,13 @@ h1 {
   font-family: 'Roman', display;
 }
 
-h1 span {
+h1 {
     display: inline-block;
     animation: swirl 2s ease-in-out infinite;
     /* Optional: Delay animation for each letter */
     animation-delay: calc(0.1s * var(--i));
   }
-h1 span {
+h1 {
     display: inline-block;
     animation: swirl 2s ease-in-out infinite;
     /* Optional: Delay animation for each letter */
