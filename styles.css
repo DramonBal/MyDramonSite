@@ -77,13 +77,13 @@ h2 {
 
 h3 {
   color: white;
-  font-family: 'Montserrat', sans-serif;
+  font-family: lobster,'Montserrat', sans-serif;
   text-align: center;
 }
 
 h4 {
   color: red;
-  font-family: 'Montserrat', sans-serif;
+  font-family: lobster,'Montserrat', sans-serif;
   text-align: center;
 }
 
@@ -102,7 +102,7 @@ hr {
 
 a{
   color: #053f2c;
-  font-family: 'Montserrat', sans-serif;
+  font-family: lobster, 'Montserrat', sans-serif;
   margin: 10px 20px;
   text-decoration: none;
 }
