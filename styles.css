@@ -57,18 +57,17 @@ h2 {
 
 h3 {
   color: white;
-  font-family: lobster,'Montserrat', sans-serif;
+  font-family: Georgia,'Montserrat', sans-serif;
   font-size: 2.5rem;
   text-align: center;
 }
 
 h4 {
   color: red;
-  font-family: lobster,'Montserrat', sans-serif;
+  font-family: Roman,'Montserrat', sans-serif;
   font-size: 2.0rem;
   text-align: center;
 }
-
 p {
   /*color: #b90b31;*/
   color: red;
