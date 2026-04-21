@@ -37,35 +37,6 @@ h1 {
   font-family: lobster, serif, 'Roman', display;
 }
 
-h1 {
-    display: inline-block;
-    animation: swirl 3s ease-in-out infinite;
-    /* Optional: Delay animation for each letter */
-    animation-delay: calc(0.2s * var(--i));
-  }
-h1 {
-    display: inline-block;
-    animation: swirl 3s ease-in-out infinite;
-    /* Optional: Delay animation for each letter */
-    animation-delay: calc(0.2s * var(--i));
-  }
-
-  @keyframes swirl {
-    0% {
-      transform: rotate(0deg) scale(1) translateY(0);
-      opacity: 1;
-    }
-    50% {
-      transform: rotate(180deg) scale(0.5) translateY(-20px);
-      opacity: 0.5;
-    }
-    100% {
-      transform: rotate(360deg) scale(1) translateY(0);
-      opacity: 1;
-    }
-  }
-
-
 h2 {
   /*color: #b90b31;*/
   color: red;
