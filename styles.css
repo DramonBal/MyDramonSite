@@ -163,38 +163,6 @@ a:hover {
   margin-left: 30px;
 }
 
-body{
-  display: grid;
-  margin: auto;
-  margin-top: calc(0vh - 0px);
-  width: 300px; height: 300px;
-}
-fieldset{
-  border: 10px solid transparent;
-  border-top-color: rgb(63, 25, 25);
-  box-sizing: border-box;
-  grid-area: 1 / 1;
-  padding: 20px;
-  width: inherit;
-}
-
-fieldset:nth-of-type(2){ transform: rotate(90deg); }
-fieldset:nth-of-type(3){ transform: rotate(180deg); }
-fieldset:nth-of-type(4){ transform: rotate(-90deg); }
-legend{
-  font: 15pt/0 'Averia Serif Libre';
-  margin: auto;
-  padding: 0 4px;
-}
-fieldset:nth-of-type(3)>legend{ transform: rotate(180deg); }
-
-body {
-  user-select: none;
-  -webkit-user-select: none;
-}
-
-
-
 .btn {
   background: #203f41;
   background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
