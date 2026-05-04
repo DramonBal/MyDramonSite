@@ -101,71 +101,13 @@
               <fieldset><legend><legend>Joy</fieldset>
 
 
-<style>
-        /* 1. Remove default browser margins and set full height */
-        body, html {
-            margin: 0;
-            padding: 0;
-            height: 100%;
-            overflow: hidden; /* Prevents unwanted scrolling */
-        }
 
-        /* 2. Use Flexbox to stack two sections vertically */
-        .page-container {
-            display: flex;
-            flex-direction: column;
-            height: 100vh; /* Viewport Height: 100% of the screen */
-        }
-
-        /* 3. Style the top half (content area) */
-        .top-half {
-            flex: 1; /* Takes up 50% of the height */
-            background-color: #9f1c1c;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            text-align: center;
-            font-family: sans-serif;
-        }
-
-        /* 4. Style the bottom half (video container) */
-        .video-container {
-            flex: 1; /* Takes up the other 50% */
-            position: relative;
-            background-color: #000; /* Backdrop for loading or gaps */
-            overflow: hidden;
-        }
-
-        /* 5. Make the video cover its container */
-        video {
-            width: 100%;
-            height: 100%;
-            object-fit: cover; /* Crops the video to fill the space without stretching */
-        }
-    </style>
 </head>
 <body>
 
-    <div class="page-container">
-        <!-- Content in the top half -->
-        <div class="top-half">
-            <div>
-                <h1>Mountain Biking</h1>
-                <p>Exciting and Fun!</p>
-            </div>
-        </div>
-
-        <!-- Video in the bottom half -->
-        <div class="video-container">
-            <video autoplay muted loop playsinline>
-                <source src="biking.MP4" type="video/mp4">
-                Your browser does not support the video tag.
-            </video>
         </div>
     </div>
-                
-
-                
+                             
          </div>
     </div>.
     <hr>
